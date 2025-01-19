@@ -1,4 +1,3 @@
-
 👋 Hi, I'm Samy.
 👀 I'm interested in football, anime, and computer science.
 🌱 I'm currently learning various programming languages and software development techniques.
