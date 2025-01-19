@@ -3,7 +3,7 @@
 👀 I'm interested in football, anime, and computer science.
 🌱 I'm currently learning various programming languages and software development techniques.
 💞️ I'm looking to collaborate on projects related to web development or software engineering.
-📫 You can connect with me on (https://linktr.ee/_samygaming_).
+📫 You can connect with me on (https://linktr.ee/_samygaming_/).
 😄 Pronouns: He/Him
 ⚡ Fun fact: I've watched every episode of my favorite anime series at least three times!
 
