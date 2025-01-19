@@ -3,7 +3,7 @@
 👀 I'm interested in football, anime, and computer science.
 🌱 I'm currently learning various programming languages and software development techniques.
 💞️ I'm looking to collaborate on projects related to web development or software engineering.
-📫 You can reach me via email at .......or connect with me on _samy_gaming_.
+📫 You can reach me via email at .......or connect with me on "_samy_gaming_".
 😄 Pronouns: He/Him
 ⚡ Fun fact: I've watched every episode of my favorite anime series at least three times!
 
