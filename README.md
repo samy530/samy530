@@ -1,9 +1,10 @@
-👋 Hi, I'm Samy.
-👀 I'm interested in football, anime, and computer science.
-🌱 I'm currently learning various programming languages and software development techniques.
-💞️ I'm looking to collaborate on projects related to web development or software engineering.
-📫 You can connect with me on (https://linktr.ee/_samygaming_/).
-😄 Pronouns: He/Him
+👋 Hi, I'm Samy.  
+🎓 I'm currently a Master's student in Computer Systems (Master 1) at the University of Mouloud Mammeri, Tizi-Ouzou (UMMTO).  
+👀 I'm interested in football, anime, and computer science.  
+🌱 I'm currently learning various programming languages and software development techniques.  
+💞️ I'm looking to collaborate on projects related to web development or software engineering.  
+📫 You can connect with me on [Linktree](https://linktr.ee/_samygaming_/).  
+😄 Pronouns: He/Him  
 ⚡ Fun fact: I've watched every episode of my favorite anime series at least three times!
 
 <!---
