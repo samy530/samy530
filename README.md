@@ -1,5 +1,5 @@
 👋 Hi, I'm Samy.  
-🎓 I'm currently a Master's student in Computer Systems (Master 1) at the University of Mouloud Mammeri, Tizi-Ouzou (UMMTO).  
+🎓 I'm currently a Master's student in Computer Systems (Master 2) at the University of Mouloud Mammeri, Tizi-Ouzou (UMMTO).  
 👀 I'm interested in football, anime, and computer science.  
 🌱 I'm currently learning various programming languages and software development techniques.  
 📹 I also create tech-related and gaming content on YouTube.  
